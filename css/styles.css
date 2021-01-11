@@ -1,6 +1,7 @@
 h1 {
-  color: blue;
+  color: red;
   text-align: center;
+  font-size: 48px;
 }
 
 h2 {
@@ -9,10 +10,11 @@ h2 {
 }
 
 p {
-  font-family: sans-serif;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+  font-weight: 15px;
 }
